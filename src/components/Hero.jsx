@@ -1,5 +1,5 @@
 import React from 'react'
-import { logo} from '../assets';
+import { logo } from '../assets';
 
 const Hero = () => {
   return (
@@ -10,7 +10,7 @@ const Hero = () => {
 
 
              <button type="button"
-             onClick={() =>window.open("https://github.com/adrianhajdin")}
+             onClick={() =>window.open("https://github.com/ashesha1-coder")}
              className='black_btn'
              >
                 GitHub
