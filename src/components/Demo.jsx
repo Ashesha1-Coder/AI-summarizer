@@ -30,7 +30,7 @@ const Demo = () => {
       const newArticle = { ...article, summary: data.summary };
 
       const updatedAllArticles = [newArticle, ...allArticles];
-      setArticle(newArticle);
+      setarticle(newArticle);
       setallArticles(updatedAllArticles);
 
 
@@ -80,7 +80,7 @@ const Demo = () => {
           />
           <button
             type="submit"
-            classname="submit_btn
+            className="submit_btn
            peer-focus:border-gray-700
            peer-focus:text-gray-700"
 
