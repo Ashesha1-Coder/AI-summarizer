@@ -14,5 +14,3 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   </React.StrictMode>
 );
 
-// Haan yahan bolo vaavu
-// isko krdo thik 
